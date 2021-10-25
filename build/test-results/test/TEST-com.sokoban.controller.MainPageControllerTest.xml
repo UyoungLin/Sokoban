@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.sokoban.controller.MainPageControllerTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-12-16T23:00:24" hostname="pc-201-77.customer.ask4.lan" time="0.713">
+  <properties/>
+  <testcase name="testToggleDebug()" classname="com.sokoban.controller.MainPageControllerTest" time="0.713"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[java.lang.NullPointerException
+	at BestSokobanEver/com.sokoban.controller.MainPageController.toggleDebug(MainPageController.java:106)
+	at BestSokobanEver/com.sokoban.controller.MainPageControllerTest.lambda$testToggleDebug$0(MainPageControllerTest.java:26)
+	at javafx.graphics/com.sun.javafx.application.PlatformImpl.lambda$startup$5(PlatformImpl.java:271)
+	at javafx.graphics/com.sun.glass.ui.Application.invokeAndWait(Application.java:464)
+	at javafx.graphics/com.sun.javafx.tk.quantum.QuantumToolkit.runToolkit(QuantumToolkit.java:344)
+	at javafx.graphics/com.sun.javafx.tk.quantum.QuantumToolkit.lambda$startup$10(QuantumToolkit.java:258)
+	at javafx.graphics/com.sun.glass.ui.Application.lambda$run$1(Application.java:153)
+]]></system-err>
+</testsuite>
