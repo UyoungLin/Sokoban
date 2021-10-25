@@ -1,0 +1,14 @@
+ke		24		4
+kin		24		5
+gre		24		5
+rtt		24		5
+hi		24		5
+ji		24		5
+h		24		5
+deg		24		5
+lao		24		5
+neo		24		6
+yu		24		6
+yourName		9		7
+yu		42		24
+yuyang		43		33
