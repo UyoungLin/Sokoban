@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"m":"BestSokobanEver","l":"com.sokoban.controller"},{"m":"BestSokobanEver","l":"com.sokoban.game"},{"m":"BestSokobanEver","l":"com.sokoban.logger"},{"m":"BestSokobanEver","l":"com.sokoban.model"},{"m":"BestSokobanEver","l":"com.sokoban.view"}]

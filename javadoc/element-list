@@ -1,0 +1,6 @@
+module:BestSokobanEver
+com.sokoban.controller
+com.sokoban.game
+com.sokoban.logger
+com.sokoban.model
+com.sokoban.view
