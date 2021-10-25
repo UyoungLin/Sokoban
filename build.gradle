@@ -1,0 +1,31 @@
+plugins {
+    id 'java'
+    id 'application'
+    id 'org.openjfx.javafxplugin' version '0.0.8'
+}
+
+group 'sample'
+version '1.0-SNAPSHOT'
+
+sourceCompatibility = 10
+
+test{
+    useJUnitPlatform()
+}
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    testCompile group: 'junit', name: 'junit', version: '4.12'
+    testImplementation('org.junit.jupiter:junit-jupiter-api:5.4.2')
+    testRuntime('org.junit.jupiter:junit-jupiter-engine:5.4.2')
+}
+
+javafx{
+    modules = ['javafx.controls','javafx.fxml','javafx.base','javafx.graphics','javafx.media','javafx.swing','javafx.web']
+    version='11.0.2'
+}
+
+mainClassName = 'BestSokobanEver/com.sokoban.game.Main'
