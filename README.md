@@ -1,12 +1,8 @@
-Yuyang LIN (scyyl7), Tested on macOS, Java 12, JavaFX 11.0.2, Gradle Build
-
-# COMP2013 scyyl7
+Tested on macOS, Java 12, JavaFX 11.0.2, Gradle Build
 
 ## Author
 
-Yuyang LIN (20125050)
-
-scyyl7@nottingham.ac.uk
+Yuyang LIN
 
 ## How To Compile
 
